@@ -1,0 +1,56 @@
+﻿{
+  "skills": [
+    {
+      "val": "95",
+      "name": "HTML",
+      "img": "html.png"
+    },
+    {
+      "val": "95",
+      "name": "CSS",
+      "img": "cssico.png"
+    },
+    {
+      "val": "95",
+      "name": "JavaScript",
+      "img": "jsico.png"
+    },
+    {
+      "val": "75",
+      "name": "Adobe Photoshop",
+      "img": "psico.png"
+    },
+    {
+      "val": "100",
+      "name": "Bootstrap",
+      "img": "bsico.png"
+    },
+    {
+      "val": "100",
+      "name": "Google UI",
+      "img": "googico.png"
+
+    },
+    {
+      "val": "75",
+      "name": "jQuery",
+      "img": "jqueryico.png"
+    },
+    {
+      "val": "75",
+      "name": "Angular JS",
+      "img": "angularico.png"
+    },
+    {
+      "val": "65",
+      "name": "Node JS",
+      "img": "nodeico.png"
+    },
+    {
+      "val": "80",
+      "name": "Ionic",
+      "img": "ionicico.png"
+    }
+  ]
+
+}
