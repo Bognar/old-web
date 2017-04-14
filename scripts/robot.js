@@ -116,6 +116,7 @@ app.controller("EmailCtrl", function ($scope, $http) {
                 "method": "POST",
                 "url": "https://api.mailgun.net/v3/" + mailgunUrl + "/messages",
                 "headers": {
+					"Allow-Control-Allow-Origin": "*",
                     "Content-Type": "application/x-www-form-urlencoded",
                     "Authorization": "Basic " + mailgunApiKey
                 },
