@@ -42,8 +42,8 @@ app.controller('work', function ($scope) {
 app.controller('about', function ($scope) { });
 
 app.controller("PolarAreaCtrl", function ($scope) {
-    $scope.labels = ["HTML", "CSS", "JavaScripts", "NodeJS", "Bootstrap", "Angular JS", "PHP", "JQuery", "Ionic"];
-    $scope.data = [90, 90, 70, 60, 100, 75, 35, 65, 55];
+    $scope.labels = ["HTML", "CSS", "JavaScripts", "NodeJS", "Bootstrap", "Angular JS", "PHP", "JQuery", "Ionic", "Photoshop", "Git", "ChartsJS", "Wordpress", "mySQL", "RESTful"];
+    $scope.data = [90, 90, 70, 60, 100, 75, 35, 65, 55, 75, 85, 50, 90, 80, 75];
     $scope.options = {
         legend: {
             display: true,
