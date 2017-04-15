@@ -3,11 +3,11 @@
 <head>
     <title>JB Village</title>
 	<meta charset="utf-8" />
-	
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <meta http-equiv="Content-Security-Policy" content="default-src *; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval'">
     <base href="/">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <script src="scripts/angular.js"></script>
     <script src="scripts/jquery-1.9.1.min.js"></script>
     <script src="scripts/angular-route.min.js"></script>
@@ -212,32 +212,37 @@
         <div class="row padme3">
             <div class="col-sm-4 padright">
                 <h3 class="eltext">Want to Work Together? Let's Get in Touch</h3>
-                <div ng-controller="EmailCtrl" style="width: 270px; height: auto;">
+                <form style="width: 270px; height: auto;" action="https://www.enformed.io/tu88dcft" method="POST">
                     <div class="card padme2">
                        
                             <span class="list">
                                 <label class="item item-input">
                                     
-                                    <input type="text" class="form-control" placeholder="Sender" ng-model="sender">
+                                    <input type="text" class="form-control" placeholder="Sender" name="sender">
+                                </label>
+                                <label class="item item-input">
+
+                                    <input type="text" class="form-control" placeholder="Your e-mail" name="E-mail">
                                 </label>
                                 <label class="item item-input">
                                     
-                                    <input type="text" class="form-control" placeholder="Subject" ng-model="subject">
+                                    <input type="text" class="form-control" placeholder="Subject" name="subject">
                                 </label>
+
+                               
+
                                 <label class="item item-input">
                                   
-                                    <textarea placeholder="Message" class="form-control" ng-model="message"></textarea>
+                                    <textarea placeholder="Message" class="form-control" name="message"></textarea>
                                 </label>
                             </span>
-                            <button class="btn btn-danger" ng-click="send(sender, subject, message)">
+                            <button class="btn btn-danger" name="*redirect" value="http://bognar.github.io"  type="submit">
                                 <p>Send mail</p>
                             </button>
-                            <span class="eltext">
-                                <span class="col" ng-show="poruka">{{poruka}}</span>
-                            </span>
+                           
                         
                     </div>
-                </div>
+                </form>
 
             </div>
             <div class="col-sm-4 padright">
