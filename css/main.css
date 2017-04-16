@@ -249,3 +249,15 @@ a:hover, a:focus {
 .bracket {
     color:#FF7F50;
 }
+.workfloat {
+     background-image: url("/img/project.png");
+    background-position: right 5px bottom 5px;
+    background-repeat: no-repeat;
+    border-bottom: 1px solid coral;
+    display: block;
+    float: left;
+    margin-bottom: 10px;
+    padding: 10px;
+    text-shadow: 1px 1px 2px #ddd;
+    width: 100%;
+}

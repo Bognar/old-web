@@ -36,9 +36,15 @@ var app = angular.module('midget', ['ngRoute', 'chart.js'])
     $locationProvider.html5Mode(true);
     
             }]);
-app.controller('work', function ($scope) {
+
+app.controller('work', ['$scope', '$http', function ($scope, $http) {
+        $http.get('scripts/skills.json').then(function (response) {
+            $scope.mywork = response.data;
+            
+        });
+}]);
     
-});
+
 app.controller('about', function ($scope) { });
 
 app.controller("PolarAreaCtrl", function ($scope) {
@@ -67,6 +73,7 @@ app.controller("PolarAreaCtrl", function ($scope) {
         }
     }
 });
+
 
 app.controller('posts', ['$scope', '$http', function ($scope, $http) {
     $http.get('scripts/posts.json').then(function (response) {
