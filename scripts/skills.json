@@ -1,56 +1,34 @@
-﻿{
-  "skills": [
-    {
-      "val": "95",
-      "name": "HTML",
-      "img": "html.png"
-    },
-    {
-      "val": "95",
-      "name": "CSS",
-      "img": "cssico.png"
-    },
-    {
-      "val": "95",
-      "name": "JavaScript",
-      "img": "jsico.png"
-    },
-    {
-      "val": "75",
-      "name": "Adobe Photoshop",
-      "img": "psico.png"
-    },
-    {
-      "val": "100",
-      "name": "Bootstrap",
-      "img": "bsico.png"
-    },
-    {
-      "val": "100",
-      "name": "Google UI",
-      "img": "googico.png"
+﻿[
+  {
+    "pname": "Logical Reshuffling",
+    "used": "CSS, HTML, Angular, jQuery, Bootstrap, Drag&Drop JS",
+    "shortdscr": "Simple AngularJS word/game or word/sorting. The idea behind this is that you have a sentence that lacks one word and you have to insert the correct word from offered. The principle of using is the drag and drop method and by selecting the incorrect word, background of word become red and you must replaced it by another until it becomes green background. This is good addition to implement at websites for learning foreign languages.",
+    "url": "https://plnkr.co/edit/xbC1HB7DuvN0tmxClzBe?p=preview"
+  },
+  {
+    "pname": "Game of Thrones SPA for famous quote",
+    "used": "CSS, HTML, Angular, jQuery, Bootstrap",
+    "shortdscr": "App for showing famous quotes from the GoT show characters using AngularJS and online JSON API. This is SPA(Single Page Application) created in Visual Studio Community 2015.",
+    "url": "http://plnkr.co/edit/5HrWMu?p=preview"
+  },
+  {
+    "pname": "Task Manager app for android devices api level 12-19",
+    "used": "CSS, HTML, Angular, jQuery, MaterializeCSS",
+    "shortdscr": "Task Manager is a Single Page Application created with AngularJS and Google Materialize framework. The app is really simple and allows compiling lists of tasks(ToDo); eg: shoping list, daily plan etc.",
+    "url": "https://plnkr.co/edit/tnuopYp0SQiDgNqOeBM7?p=preview"
+  },
+  {
+    "pname": "Movie DB",
+    "used": "CSS, HTML, Angular, jQuery, Bootstrap, RESTful Api, JSON",
+    "shortdscr": "AngularJS SPA that browses through OMDb website and pick movies depending on your search input.",
+    "url": "https://github.com/Bognar/MovieDB"
+  },
+  {
+    "pname": "Galatea",
+    "used": "CSS, HTML, Angular, jQuery, Bootstrap, RESTful Api, JSON, Photoshop",
+    "shortdscr": "Tarot reading app created with ionic and angularJS. as DB there is an JSON file which contains lists and properities of all cards.",
+    "url": "https://github.com/Bognar/Galatea",
+    "apk":  "galatea.apk"
+  }
 
-    },
-    {
-      "val": "75",
-      "name": "jQuery",
-      "img": "jqueryico.png"
-    },
-    {
-      "val": "75",
-      "name": "Angular JS",
-      "img": "angularico.png"
-    },
-    {
-      "val": "65",
-      "name": "Node JS",
-      "img": "nodeico.png"
-    },
-    {
-      "val": "80",
-      "name": "Ionic",
-      "img": "ionicico.png"
-    }
-  ]
-
-}
+]
