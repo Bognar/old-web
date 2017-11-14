@@ -28,7 +28,14 @@
     "used": "CSS, HTML, Angular, jQuery, Bootstrap, RESTful Api, JSON, Photoshop",
     "shortdscr": "Tarot reading app created with ionic and angularJS. as DB there is an JSON file which contains lists and properities of all cards.",
     "url": "https://github.com/Bognar/Galatea",
-    "apk":  "galatea.apk"
+    "apk": "galatea.apk"
+  },
+  {
+    "pname": "Discount Calculator for android devices api level 12-19",
+    "used": "CSS, HTML, Angular, ionic",
+    "shortdscr": "This app calculates discount that can be set in billing applications for packages(can be any type of item or services)",
+    "apk": "Discount.apk",
+    "url": "no url"
   }
 
 ]
