@@ -28,7 +28,6 @@
     "used": "CSS, HTML, Angular, jQuery, Bootstrap, RESTful Api, JSON, Photoshop",
     "shortdscr": "Tarot reading app created with ionic and angularJS. as DB there is an JSON file which contains lists and properities of all cards.",
     "url": "https://github.com/Bognar/Galatea",
-<<<<<<< HEAD
     "apk": "galatea.apk"
   },
   {
@@ -37,8 +36,6 @@
     "shortdscr": "This app calculates discount that can be set in billing applications for packages(can be any type of item or services)",
     "apk": "Discount.apk",
     "url": "no url"
-=======
-    "apk":  "galatea.apk"
   },
   {
     "pname": "bognar.github.io",
@@ -46,7 +43,6 @@
     "shortdscr": "This is my peronal webpage created by me to showcase my work and get in touch with me!",
     "url": "https://github.com/Bognar/bognar.github.io",
     "apk":  ""
->>>>>>> origin/master
   }
 
 ]
