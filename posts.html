@@ -1,7 +1,7 @@
 ﻿
    
 <div ng-repeat="y in posts" class="col-sm-3 card text-center">
-   <img class="card-img-top" data-ng-src="{{y.imghead}}"/>
+   <div class="postimagemain"><img class="card-img-top" data-ng-src="{{y.imghead}}"/></div>
     <div class="card-block">
         <h4 class="card-title"><a href="/post/{{posts.indexOf(y)}}"> {{y.title}}</a></h4>
         <p class="card-text">{{y.exerpt}}</p>

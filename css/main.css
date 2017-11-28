@@ -11,6 +11,18 @@ body a {
     color:#fff;
 
 }
+.postimagemain {
+    padding: 5px;
+    border: 1px solid coral;
+    border-radius: 5px;
+    position: relative;
+    display: block;
+    width: 250px !important;
+}
+.postimagemain img {
+    width: 100%;
+    height: auto;
+}
 .nav > li > a:hover {
     background:transparent;
     border:none;
