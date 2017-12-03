@@ -1,4 +1,10 @@
 ﻿[
+    {
+    "pname": "Simple Parallax for Web",
+    "used": "CSS, HTML, JavaScript, jQuery, Parallax.js",
+    "shortdscr": "Demonstration of modern multilayered Parallax effect for web and mobile solutions. Divisions move according to mouse position",
+    "url": "https://codepen.io/iFun_Studios/pen/LOqvgV"
+},
   {
     "pname": "Logical Reshuffling",
     "used": "CSS, HTML, Angular, jQuery, Bootstrap, Drag&Drop JS",
