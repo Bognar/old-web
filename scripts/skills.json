@@ -4,7 +4,13 @@
     "used": "CSS, HTML, JavaScript, jQuery, Parallax.js",
     "shortdscr": "Demonstration of modern multilayered Parallax effect for web and mobile solutions. Divisions move according to mouse position",
     "url": "https://codepen.io/iFun_Studios/pen/LOqvgV"
-},
+    },
+     {
+    "pname": "Task Manager and Monster evolution app",
+    "used": "CSS, HTML, JavaScript, jQuery, Angular2, Ionic 3, Typescript, Firebase",
+    "shortdscr": "Task Monster is a simple and smart application to work with task that simplifies the planning of everyday tasks. Another great feature of the app is that you can choose, name and tend your own monster. The more tasks you finish, the more will your task monster grow.",
+    "url": "https://play.google.com/store/apps/details?id=ifun.studio.app2"
+    },
   {
     "pname": "Logical Reshuffling",
     "used": "CSS, HTML, Angular, jQuery, Bootstrap, Drag&Drop JS",
