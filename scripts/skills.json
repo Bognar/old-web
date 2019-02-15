@@ -9,13 +9,13 @@
     "pname": "Task Manager and Monster evolution app",
     "used": "CSS, HTML, JavaScript, jQuery, Angular2, Ionic 3, Typescript, Firebase",
     "shortdscr": "Task Monster is a simple and smart application to work with task that simplifies the planning of everyday tasks. Another great feature of the app is that you can choose, name and tend your own monster. The more tasks you finish, the more will your task monster grow.",
-    "url": "https://play.google.com/store/apps/details?id=ifun.studio.app2"
+    "url": "https://github.com/Bognar/Task-Monster"
     },
   {
     "pname": "Logical Reshuffling",
     "used": "CSS, HTML, Angular, jQuery, Bootstrap, Drag&Drop JS",
     "shortdscr": "Simple AngularJS word/game or word/sorting. The idea behind this is that you have a sentence that lacks one word and you have to insert the correct word from offered. The principle of using is the drag and drop method and by selecting the incorrect word, background of word become red and you must replaced it by another until it becomes green background. This is good addition to implement at websites for learning foreign languages.",
-    "url": "https://plnkr.co/edit/xbC1HB7DuvN0tmxClzBe?p=preview"
+    "url": "https://github.com/Bognar/logicalsorting"
   },
   {
     "pname": "Game of Thrones SPA for famous quote",
@@ -33,7 +33,7 @@
     "pname": "Movie DB",
     "used": "CSS, HTML, Angular, jQuery, Bootstrap, RESTful Api, JSON",
     "shortdscr": "AngularJS SPA that browses through OMDb website and pick movies depending on your search input.",
-    "url": "https://github.com/Bognar/MovieDB"
+    "url": "https://github.com/Bognar/Movie-DB"
   },
   {
     "pname": "Galatea",
